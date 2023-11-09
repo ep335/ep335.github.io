@@ -370,7 +370,7 @@
 
     text-align: left;
 
-    max-width: 25%;
+    max-width: 50%;
     
     max-height: 50%;
 
@@ -392,8 +392,6 @@
     width: 425px;
     
     height: 361px;
-    
-    object-fit: contain;
 
     margin-top: 350px;
 
